@@ -5,6 +5,6 @@ Classification and regression trees are machine learning methods for constructin
 
 Here are some references if you would like to read up on these methods:
 
-De’ath et al. (2000). Classification and regression trees: A powerful yet simple technique for ecological data analysis. Ecology 81:3178–3192.
-Cutler et al. (2007).  Random forests for classification in ecology. Ecology 88(11): 2783-2792.
-Elith et al.    (2008). A working guide to boosted regression trees. Journal of Animal Ecology 77: 802–813
+* De’ath et al. (2000). Classification and regression trees: A powerful yet simple technique for ecological data analysis. 
+* Cutler et al. (2007).  Random forests for classification in ecology. Ecology 88(11): 2783-2792.
+* Elith et al.    (2008). A working guide to boosted regression trees. Journal of Animal Ecology 77: 802–813
